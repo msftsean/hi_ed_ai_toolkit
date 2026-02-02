@@ -131,7 +131,7 @@ Practical resources you can use immediately:
 ### Event Information
 - 📅 **Azure Days Arlington**: February 3-4, 2026
 - 🏢 **Location**: Microsoft Office, 1300 Wilson Blvd, Arlington, VA
-- 🎤 **Speaker**: Sean Gayle, Director of AI Engineering, Microsoft
+- 🎤 **Speaker**: [Speaker Name], Director of AI Engineering, Microsoft
 
 ---
 
@@ -190,7 +190,7 @@ This toolkit embodies the following principles from our "Ethics is the Edge" fra
 
 ## 📞 Contact
 
-**Sean Gayle**  
+**[Speaker Name]**  
 Director of AI Engineering, Microsoft  
 📧 [CONTACT EMAIL]  
 💻 [GitHub](https://github.com/msftsean)

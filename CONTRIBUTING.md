@@ -85,7 +85,7 @@ This project follows Microsoft's Open Source Code of Conduct. We expect:
 If you're part of the Microsoft Higher Education team or an official partner:
 
 **Internal Contributors:**
-1. Contact Sean Gayle for access
+1. Contact [Speaker Name] for access
 2. Follow internal Microsoft contribution guidelines
 3. Use feature branches for new content
 4. Request review before merging

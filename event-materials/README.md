@@ -21,7 +21,7 @@ Resources from **Azure Days Arlington** (February 3-4, 2026)
 
 #### AI Ethics Presentation (1:45-2:30 PM)
 **"AI Ethics & Responsible AI: From Principle to Practice in Higher Education"**  
-*Speaker: Sean Gayle, Director of AI Engineering, Microsoft*
+*Speaker: [Speaker Name], Director of AI Engineering, Microsoft*
 
 **Topics Covered:**
 - The 2026 reality: AI agents in higher education
@@ -39,7 +39,7 @@ Resources from **Azure Days Arlington** (February 3-4, 2026)
 
 #### University Front Door Support Agent Demo (12:15-1:45 PM Lunch Showcase)
 **"Eliminating the 47 Front Doors Problem"**  
-*Presenter: Sean Gayle*
+*Presenter: [Speaker Name]*
 
 **Demo Highlights:**
 - Live three-agent orchestration
