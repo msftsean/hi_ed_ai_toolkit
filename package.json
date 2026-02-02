@@ -1,0 +1,28 @@
+{
+  "name": "hi_ed_ai_toolkit",
+  "version": "1.0.0",
+  "description": "![Status](https://img.shields.io/badge/Status-Event%20Week-yellow) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-Microsoft%20Specific-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-orange)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msftsean/hi_ed_ai_toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/msftsean/hi_ed_ai_toolkit/issues"
+  },
+  "homepage": "https://github.com/msftsean/hi_ed_ai_toolkit#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  }
+}
