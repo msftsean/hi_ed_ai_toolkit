@@ -131,7 +131,7 @@ Practical resources you can use immediately:
 ### Event Information
 - 📅 **Azure Days Arlington**: February 3-4, 2026
 - 🏢 **Location**: Microsoft Office, 1300 Wilson Blvd, Arlington, VA
-- 🎤 **Speaker**: [Speaker Name], Director of AI Engineering, Microsoft
+- 🎤 **Speaker**: @MSFTSEAN, Director of AI Engineering, Microsoft
 
 ---
 
@@ -150,7 +150,7 @@ Practical resources you can use immediately:
 
 This repository is currently **maintained by Microsoft and event organizers**. We welcome feedback and suggestions:
 
-- 📧 **Email**: [[CONTACT EMAIL]]()
+- 📧 **Email**: [@MSFTSEAN]()
 - 💬 **Feedback**: Open an issue for suggestions
 - 🐛 **Bug Reports**: Report technical issues with code samples
 
@@ -190,9 +190,9 @@ This toolkit embodies the following principles from our "Ethics is the Edge" fra
 
 ## 📞 Contact
 
-**[Speaker Name]**  
+**@MSFTSEAN**  
 Director of AI Engineering, Microsoft  
-📧 [CONTACT EMAIL]  
+📧 @MSFTSEAN  
 💻 [GitHub](https://github.com/msftsean)
 
 **Tracy Woods**  

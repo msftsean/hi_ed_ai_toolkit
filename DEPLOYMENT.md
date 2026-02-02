@@ -320,7 +320,7 @@ https://github.com/msftsean/hiedcab_frontdoor_agent
 
 ## Need Help?
 
-📧 **Email:** [CONTACT EMAIL]  
+📧 **Email:** @MSFTSEAN  
 💬 **Issues:** Open a GitHub Issue  
 📚 **GitHub Pages Docs:** https://docs.github.com/en/pages
 

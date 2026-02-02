@@ -20,7 +20,7 @@ Have you implemented AI agents at your institution? We'd love to hear about it!
 - ✅ Governance frameworks that worked (or didn't)
 
 **How to share:**  
-Email: [CONTACT EMAIL]
+Email: @MSFTSEAN
 
 ### 🐛 Report Issues
 
@@ -75,7 +75,7 @@ This project follows Microsoft's Open Source Code of Conduct. We expect:
 
 ## Questions?
 
-📧 **Contact:** [CONTACT EMAIL]  
+📧 **Contact:** @MSFTSEAN  
 💻 **Issues:** [GitHub Issues](https://github.com/msftsean/hi_ed_ai_toolkit/issues)
 
 ---
@@ -85,7 +85,7 @@ This project follows Microsoft's Open Source Code of Conduct. We expect:
 If you're part of the Microsoft Higher Education team or an official partner:
 
 **Internal Contributors:**
-1. Contact [Speaker Name] for access
+1. Contact @MSFTSEAN for access
 2. Follow internal Microsoft contribution guidelines
 3. Use feature branches for new content
 4. Request review before merging

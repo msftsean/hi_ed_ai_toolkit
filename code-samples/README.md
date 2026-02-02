@@ -172,7 +172,7 @@ While we're not accepting PRs at this time, we are interested in:
 - Novel use cases
 - Security improvements
 
-📧 Contact: [CONTACT EMAIL]
+📧 Contact: @MSFTSEAN
 
 ---
 
