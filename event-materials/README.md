@@ -120,7 +120,7 @@ Integrated into the AI Ethics presentation, the Moltbook case study demonstrates
 ## 📞 Event Follow-Up
 
 **Questions about event materials?**  
-📧 sean.gayle@microsoft.com  
+📧 [CONTACT EMAIL]  
 
 **Missed the event?**  
 Check back soon for video recordings and complete presentation decks.

@@ -20,7 +20,7 @@ Have you implemented AI agents at your institution? We'd love to hear about it!
 - ✅ Governance frameworks that worked (or didn't)
 
 **How to share:**  
-Email: sean.gayle@microsoft.com
+Email: [CONTACT EMAIL]
 
 ### 🐛 Report Issues
 
@@ -75,7 +75,7 @@ This project follows Microsoft's Open Source Code of Conduct. We expect:
 
 ## Questions?
 
-📧 **Contact:** sean.gayle@microsoft.com  
+📧 **Contact:** [CONTACT EMAIL]  
 💻 **Issues:** [GitHub Issues](https://github.com/msftsean/hi_ed_ai_toolkit/issues)
 
 ---

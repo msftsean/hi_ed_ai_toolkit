@@ -49,4 +49,4 @@ This section will include:
 **Check back soon!**  
 ⭐ Star this repository to be notified when tools are published.
 
-📧 Need something specific? sean.gayle@microsoft.com
+📧 Need something specific? [CONTACT EMAIL]

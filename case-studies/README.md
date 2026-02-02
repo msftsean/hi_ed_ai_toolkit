@@ -43,4 +43,4 @@ Governing autonomous agent networks in real-time
 **Check back soon!**  
 ⭐ Star this repository to be notified when case studies are published.
 
-📧 Want to share your institution's story? sean.gayle@microsoft.com
+📧 Want to share your institution's story? [CONTACT EMAIL]

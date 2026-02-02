@@ -150,7 +150,7 @@ Practical resources you can use immediately:
 
 This repository is currently **maintained by Microsoft and event organizers**. We welcome feedback and suggestions:
 
-- 📧 **Email**: [sean.gayle@microsoft.com](mailto:sean.gayle@microsoft.com)
+- 📧 **Email**: [[CONTACT EMAIL]]()
 - 💬 **Feedback**: Open an issue for suggestions
 - 🐛 **Bug Reports**: Report technical issues with code samples
 
@@ -192,8 +192,7 @@ This toolkit embodies the following principles from our "Ethics is the Edge" fra
 
 **Sean Gayle**  
 Director of AI Engineering, Microsoft  
-📧 sean.gayle@microsoft.com  
-🔗 [LinkedIn](https://linkedin.com/in/sean-gayle)  
+📧 [CONTACT EMAIL]  
 💻 [GitHub](https://github.com/msftsean)
 
 **Tracy Woods**  
@@ -236,7 +235,7 @@ Special thanks to the participants of Azure Days Arlington for their questions, 
 
 **Ethics is the edge. Build with purpose.** 🚀
 
-[📚 Get Started](./event-materials/) | [💻 View Code](./code-samples/) | [📧 Contact Us](mailto:sean.gayle@microsoft.com)
+[📚 Get Started](./event-materials/) | [💻 View Code](./code-samples/) | [📧 Contact Us]()
 
 ---
 
