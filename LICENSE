@@ -1,0 +1,128 @@
+# Microsoft Higher Education AI Toolkit License
+
+Copyright (c) 2026 Microsoft Corporation
+
+## Terms of Use
+
+This repository contains educational materials, frameworks, code samples, and resources developed by Microsoft and partners for use in higher education AI deployments.
+
+### Permitted Uses
+
+You are permitted to:
+
+- ✅ **Use** these materials for educational purposes within higher education institutions
+- ✅ **Adapt** frameworks and templates for your institution's specific needs
+- ✅ **Share** with colleagues and students in higher education settings
+- ✅ **Reference** in academic papers, presentations, and institutional documentation
+- ✅ **Deploy** code samples in non-commercial higher education environments
+- ✅ **Modify** code samples to fit your institution's requirements
+
+### Required Attribution
+
+When using or adapting these materials, you must:
+
+- 📝 Attribute to "Microsoft Higher Education AI Team"
+- 📝 Include a link to this repository: https://github.com/msftsean/hi_ed_ai_toolkit
+- 📝 Maintain copyright notices in any distributed copies
+- 📝 Clearly indicate any modifications you have made
+
+### Restrictions
+
+You may NOT:
+
+- ❌ Use these materials for commercial product development without explicit permission
+- ❌ Claim these materials as your own original work
+- ❌ Remove or obscure copyright notices
+- ❌ Redistribute under a different license without permission
+- ❌ Use Microsoft trademarks without authorization
+
+### Code Components
+
+Code samples in this repository are provided for educational purposes. When deploying code:
+
+- Review all security considerations documented in the code samples
+- Test thoroughly in your environment
+- Obtain appropriate institutional approvals
+- Follow your institution's IT and security policies
+- Comply with applicable data protection regulations (FERPA, GDPR, etc.)
+
+### No Warranty
+
+THESE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL MICROSOFT OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THESE MATERIALS.
+
+### Microsoft Trademarks
+
+This repository may reference Microsoft trademarks including but not limited to: Microsoft, Azure, Azure AI, and related marks. Use of Microsoft trademarks must comply with Microsoft's trademark guidelines.
+
+### Third-Party Components
+
+Some materials may reference or integrate with third-party services and tools. Users are responsible for complying with the license terms of any third-party components they use.
+
+### Privacy and Data Protection
+
+When implementing solutions based on these materials:
+
+- Ensure compliance with FERPA, GDPR, and other applicable regulations
+- Implement appropriate data protection measures
+- Obtain necessary consents and approvals
+- Document data handling practices
+- Follow your institution's privacy policies
+
+### Educational Use Clarification
+
+"Educational purposes in higher education" means:
+
+- ✅ Teaching and learning activities
+- ✅ Research and academic studies
+- ✅ Institutional operations and student services
+- ✅ Staff training and professional development
+- ✅ Proof-of-concept and pilot projects
+- ❌ NOT: Commercial ventures, consulting services, or product development for sale
+
+### Contact for Commercial Use
+
+Organizations interested in commercial licensing or use outside the scope of this license should contact:
+
+**Microsoft Higher Education Team**  
+📧 sean.gayle@microsoft.com
+
+### Contributing
+
+This repository is maintained by Microsoft and select partners. While we value community feedback:
+
+- Contributions are accepted by invitation only
+- Feedback and suggestions are welcome via GitHub Issues
+- Case studies and implementation stories may be considered for inclusion
+
+### Updates to License
+
+Microsoft reserves the right to update these terms. Continued use of materials after updates constitutes acceptance of new terms. Significant changes will be communicated via repository updates.
+
+---
+
+## Acknowledgments
+
+These materials were developed through collaboration with:
+- Microsoft Higher Education Team
+- Azure AI Engineering Team
+- Cloudforce Partners
+- Higher education institutions
+- Security researchers and practitioners
+
+## Version History
+
+- **v1.0** (February 2026): Initial release for Azure Days Arlington
+
+---
+
+**Questions about licensing?**  
+📧 sean.gayle@microsoft.com
+
+**Report Issues:**  
+🐛 [GitHub Issues](https://github.com/msftsean/hi_ed_ai_toolkit/issues)
+
+---
+
+*Last Updated: February 2, 2026*
