@@ -92,36 +92,16 @@ Practical resources you can use immediately:
 
 ---
 
-## 🚀 Quick Start
-
-### For Executives
-1. Read the [AI Ethics Presentation](./event-materials/presentations/)
-2. Review the [ETHICAL Framework](./frameworks/) for institutional governance
-3. Assess your readiness with the [Governance Checklist](./tools/)
-
-### For Developers
-1. Clone the [Front Door Support Agent](https://github.com/msftsean/hiedcab_frontdoor_agent)
-2. Review [Security Hardening Guides](./code-samples/security/)
-3. Explore [Azure AI Stack Examples](./code-samples/azure/)
-
-### For Faculty
-1. Review [Faculty Guidelines](./case-studies/toronto-faculty-guidelines/)
-2. Explore [Teaching with AI](./frameworks/teaching-guidelines/)
-3. Access [Student Disclosure Templates](./tools/)
-
-### For Compliance
-1. Start with [Risk Assessment Templates](./frameworks/risk-assessment/)
-2. Review [Policy Templates](./frameworks/policies/)
-3. Understand [Incident Response](./tools/incident-response/)
-
----
-
 ## 🔗 Key Resources
 
 ### Microsoft Resources
-- 📘 **Microsoft Responsible AI**: [aka.ms/RAI](https://aka.ms/RAI)
+- 📘 **Microsoft Responsible AI**: [aka.ms/RAI](https://aka.ms/RAI) - Official principles and standards documentation
 - ⚡ **Azure AI Foundry**: [azure.microsoft.com/ai](https://azure.microsoft.com/ai)
 - 🤖 **Agent Development**: [Microsoft Agent Framework Documentation](https://learn.microsoft.com/azure/ai)
+
+### Academic & Research Resources
+- 📐 **ETHICAL Framework**: [Cal State Fullerton's Framework](https://oai.fullerton.edu/resources/ethical-framework/) - 7-domain institutional governance model (Creative Commons)
+- 🎓 **Stanford HAI**: [Human-Centered AI](https://hai.stanford.edu/) - Research and resources on human-centered AI
 
 ### Community Resources
 - 🦞 **Moltbook Research**: Real-time agent collaboration case study

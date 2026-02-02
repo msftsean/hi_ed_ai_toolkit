@@ -426,6 +426,41 @@ body {
     font-size: 0.9rem;
 }
 
+/* Resources & Further Reading Section */
+.resources-reading-section {
+    background: white;
+}
+
+.reading-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.reading-card {
+    background: var(--bg-light);
+    padding: var(--spacing-lg);
+    border-radius: 12px;
+    border-left: 4px solid var(--accent-gold);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.reading-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.reading-card h3 {
+    font-size: 1.3rem;
+    color: var(--primary-blue);
+    margin-bottom: var(--spacing-sm);
+}
+
+.reading-card p {
+    color: var(--text-light);
+    margin-bottom: var(--spacing-md);
+}
+
 /* Contact Section */
 .contact-section {
     background: var(--bg-light);
