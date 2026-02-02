@@ -104,9 +104,9 @@ Practical resources you can use immediately:
 - 🎓 **Stanford HAI**: [Human-Centered AI](https://hai.stanford.edu/) - Research and resources on human-centered AI
 
 ### Community Resources
-- 🦞 **Moltbook Research**: Real-time agent collaboration case study
-- 🔒 **OpenClaw Security**: Community hardening guides
-- 🎓 **Higher Ed AI Ethics**: Curated reading list
+- 🦞 **Moltbook Research**: [The Front Page of the Agent Internet](https://www.moltbook.com/) - Real-time agent collaboration case study
+- 🔒 **OpenClaw Security**: [Hardening Guides](https://docs.openclaw.ai/gateway/security) - Community security documentation
+- 🎓 **Higher Ed AI Ethics**: [EDUCAUSE AI Ethical Guidelines](https://library.educause.edu/resources/2025/6/ai-ethical-guidelines) - Curated reading list
 
 ### Event Information
 - 📅 **Azure Days Arlington**: February 3-4, 2026
